@@ -1,0 +1,42 @@
+.nav {
+    background-color: rgb(61, 126, 122);
+}
+
+.jumbotron {
+    background-color: #4D807C;
+}
+
+.btn {
+    background-color: aquamarine;
+}
+/* .row {
+    background-color: #CCF4FF;
+    border: black 1px;
+    border-radius: 5px;
+    padding: 4px;
+} */
+
+.nav{
+    background-color: aquamarine;
+}
+
+.button {
+    border: #0A2B29;
+    color: #0A2B29;
+}
+/* .col-12 {
+    background-color: #197480;
+    border: black 1px;
+    border-radius: 5px;
+}
+
+.col-6 {
+    background-color: #61FFFA;
+    border-radius: 5px;
+}
+
+.col-md-4 {
+    background-color: #30807D;
+    border-radius: 5px;
+} */
+
